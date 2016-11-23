@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
-# gem 'shopify-api', '7.1.0'
-# gem 'activeresource', github: 'rails/activeresource'
+gem 'shopify_app', '7.1.0'
+gem 'activeresource', github: 'rails/activeresource'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.0', '>= 5.0.0.1'
